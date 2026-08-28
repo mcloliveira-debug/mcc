@@ -1,2 +1,2 @@
 # mccoin 
-mcdcommunit 2026 - Token educacional
+mccoin 2026 - Token educacional
